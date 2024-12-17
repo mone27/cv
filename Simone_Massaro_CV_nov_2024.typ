@@ -1,4 +1,4 @@
-#import "resume-lib.typ": *
+#import "modern-cv/lib.typ": *
 
 #show: resume.with(
   author: (
@@ -120,6 +120,11 @@ Leadership:
 )
 
 #resume-skill-item(
+  "Libraries",
+  ("Pandas", "Numpy", "Polars", "Tidyverse", "Geopandas", "Scikit-learn", "PyTorch", "Fastai", "Fastcore", "Ray", "Matplotlib", "Seaborn", "Plotnine")
+)
+
+#resume-skill-item(
   "Technical skills",
   ("Linux sysadmin", "QGIS", "DevOps", "PostgreSQL", "Docker")
   )
@@ -137,5 +142,5 @@ Leadership:
 = Publications
 
 #resume-item[
-  Moscetti, R., Massaro, S., Chillemi, G., Sanna, N., Sturm, B., Chakravatula, S. S. N., & Massantini, R. (2019). Recognition of inlet wet food into the drying process through a deep learning approach. *EuroDrying 2019 Torino*.
+  Moscetti, R., Massaro, S., Chillemi, G., Sanna, N., Sturm, B., Chakravatula, S. S. N., & Massantini, R. (2019). Recognition of inlet wet food into the drying process through a deep learning approach. EuroDrying 2019 Torino.
 ]
