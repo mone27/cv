@@ -48,7 +48,7 @@ Leadership:
 ]
 
 #resume-entry(
-  title: "Intern",
+  title: "GIS Analyst Intern",
   location: "Arbonaut Oy, Joensuu, Finland",
   date: "Apr 2023 - Sept 2023",
   description: "Forest measurements using Aerial Laser Scanning"
