@@ -424,7 +424,7 @@
     below: 1.75em,
   )
   set par(leading: 0.65em)
-  block(above: 0.5em)[
+  block(above: 0.5em, below: 1cm)[
     #body
   ]
 }
