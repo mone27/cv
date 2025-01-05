@@ -27,12 +27,12 @@
 )
 
 #resume-item[
-- Development of Deep Learning models for point cloud processing (semantic segmentation, instance segmentation and species classification)
-- Development of algorithmic model to identity trees in terrestrial point cloud (using custom C++ library)
-- Development pipeline for automated parallel processing of point clouds (custom python on ray backend, PostgreSQL database) including internal dashboard
+- Design and implement deep learning models for point cloud processing to perform semantic segmentation, instance segmentation, and species classification.
+- Created algorithmic models to identify trees in terrestrial point clouds using a custom C++ library. 
+- Development pipeline for automated parallel processing of point clouds (custom python on ray backend, PostgreSQL database) including internal dashboard.
 - Development ML models for quality control of the pipeline output
-- Management of data science team (5 people), including hiring of new employees
-- Development company technology strategy and Overseeing web development team
+- Manage a data science team of five, including recruiting and onboarding new employees. 
+- Develop the company’s technology strategy and oversee the web development team. 
 ]
 
 #resume-entry(
@@ -42,7 +42,7 @@
 )
 
 #resume-item[
-  - Integrating Conversational AI and Large Language Models for Smart Food Processing. Development of AI Agent using the cheshire-cat-ai platformt to control drying processes.
+  - Integrate conversational AI and large language models for smart food processing. Development of AI Agent using the cheshire-cat-ai platform to control drying processes.
 ]
 
 #resume-entry(
@@ -53,9 +53,9 @@
 )
 
 #resume-item[
-  - Development Deep Learning model for single tree species classification using Orthophotos and LiDAR
-  - Estimation of the thinning volume using remote sensing for the entire country of Finland
-  - Spatial analysis of large scale remote sensing data and field measurements
+  - Developed Deep Learning model for single tree species classification using orthophotos and LiDAR.
+  - Estimated thinning volume using remote sensing for the entire country of Finland.
+  - Conducted spatial analysis of large-scale remote sensing data and field measurements.
 ]
 
 
@@ -66,8 +66,8 @@
 )
 
 #resume-item[
-  - Teaching assistant for the courses: Advanced R, Ecosystem and Analysis Processing, Introduction to R
-  - Literature review of AI papers for ecosystem resilience research project
+  - Teaching assistant for the courses: Advanced R, Ecosystem and Analysis Processing, Introduction to R.
+  - Conducted a literature review of AI research papers for an ecosystem resilience project.
 ]
 
 #resume-entry(
@@ -77,8 +77,8 @@
 )
 
 #resume-item[
-  - Development of Convolutional Neural Networks (CNN) for classification and segmentation of fruit samples in smart air drying processes.
-  - Publication: Moscetti, R., Massaro, S., Chillemi, G., Sanna, N., Sturm, B., Chakravatula, S. S. N., & Massantini, R. (2019). Recognition of inlet wet food into the drying process through a deep learning approach. EuroDrying 2019 Torino.
+  - Developed Convolutional Neural Networks (CNN) for classification and segmentation of fruit samples in smart air drying processes.
+  - Published: Moscetti, R., Massaro, S., Chillemi, G., Sanna, N., Sturm, B., Chakravatula, S. S. N., & Massantini, R. (2019). Recognition of inlet wet food into the drying process through a deep learning approach. EuroDrying 2019 Torino.
 ]
 
 #resume-entry(
@@ -89,11 +89,11 @@
 )
 
 #resume-item[
-  - General coordination and supervise governance, finance and administration of the organization. (50+ volunteers at international level)
-  - Fundraising and ERASMUS+ grant application
-  - Coordination internal and membership department
-  - Support engement high-level external partners
-  - Development and maintainance fo association website
+  - General coordination and supervise governance, finance and administration of the organization, involving over 50 volunteers.
+  - Fundraising and ERASMUS+ grant application.
+  - Coordinated internal and membership department.
+  - Supported engement with high-level external partners.
+  - Developmed and mantained of association website.
 ]
 
 
@@ -107,9 +107,9 @@
 )
 
 #resume-item[
-  - Main subjects: Statistics and Data Analysis, Remote Sensing, Ecosystem Modelling, Bioclimatology
-  - #link("https://github.com/mone27/meteo_imp/blob/master/manuscript/Master%20Thesis%20-%20Evaluation%20of%20Kalman%20filter%20for%20meteorological%20time%20series%20imputation%20for%20Eddy%20Covariance%20applications%20-%20Simone%20Massaro/Thesis.pdf")[Master Thesis]: "Evaluation of Kalman Filter for meteorological time series imputation for Eddy Covariance applications"
-  - Final grade: 1.1/1.0 with distinction
+  - Main subjects: Statistics and Data Analysis, Remote Sensing, Ecosystem Modelling, Bioclimatology.
+  - #link("https://github.com/mone27/meteo_imp/blob/master/manuscript/Master%20Thesis%20-%20Evaluation%20of%20Kalman%20filter%20for%20meteorological%20time%20series%20imputation%20for%20Eddy%20Covariance%20applications%20-%20Simone%20Massaro/Thesis.pdf")[Master Thesis]: "Evaluation of Kalman Filter for meteorological time series imputation for Eddy Covariance applications".
+  - Final grade: 1.1/1.0 with distinction.
 ]
 
 #resume-entry(
@@ -119,9 +119,9 @@
 )
 
 #resume-item[
-- Main subjects: Forest Ecology, Forest Management, Nature Conservation
-- Bachelor thesis: "Evaluation of low-cost anemometers for micrometeorological applications"
-- Final grade 110/110 cum laude
+- Main subjects: Forest Ecology, Forest Management, Nature Conservation.
+- Bachelor thesis: "Evaluation of low-cost anemometers for micrometeorological applications".
+- Final grade 110/110 cum laude.
 ]
 
 = Skills
