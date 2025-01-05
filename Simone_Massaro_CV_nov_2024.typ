@@ -128,7 +128,7 @@
 
 #resume-skill-item(
   "Programming Languages",
-  ("Python (advanced)", "R (advanced)", "C++ (intermediate)", "SQL (intermediate)", "PHP (intermediate)", "Web Development (intermediate)", "Rust (intermediate)", "Julia (beginner)")
+  ("Python (advanced)", "R (advanced)", "C++ (intermediate)", "SQL (intermediate)", "PHP (intermediate)", "JavaScript (intermediate)", "Rust (intermediate)", "Julia (beginner)")
 )
 
 #resume-skill-item(
@@ -138,7 +138,7 @@
 
 #resume-skill-item(
   "Technical skills",
-  ("Linux sysadmin", "QGIS", "DevOps", "PostgreSQL", "Docker", "Docker Compose")
+  ("Linux sysadmin", "QGIS", "PostgreSQL", "Docker", "Docker Compose", "Cloud infrastructure", "DevOps")
   )
 
 #resume-skill-item(
