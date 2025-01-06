@@ -20,9 +20,9 @@
 = Experience
 
 #resume-entry(
-  title: "Interim Chief Technology Officer\nHead of Data Science\nData Scientist",
+  title: "\nInterim Chief Technology Officer\nHead of Data Science\nData Scientist",
   location: "44moles GmbH, Göttingen, Germany",
-  date: "Oct 2023 - Present",
+  date: "Nov 2024 - Present\nApr 2024 - Oct 2024\nOct 2023 - Mar 2024",
   description: "Forest measurements using Terrestrial Laser Scanning"
 )
 
@@ -32,7 +32,8 @@
 - Develop a pipeline for automated parallel processing of point clouds using a custom Python implementation on a Ray backend and PostgreSQL database, integrated with an internal dashboard. 
 - Develop machine learning models for quality control of pipeline outputs. 
 - Manage a data science team of five, including recruiting and onboarding new employees. 
-- Develop the company’s technology strategy and oversee the web development team. 
+- Oversight of company’s technology department, which includes the data science and web development teams. 
+- Develop the company’s technology strategy. 
 ]
 
 #resume-entry(
@@ -89,11 +90,12 @@
 )
 
 #resume-item[
-  - General coordination and supervise governance, finance and administration of the organization, involving over 50 volunteers.
-  - Fundraising and ERASMUS+ grant application.
-  - Coordinated internal and membership department.
+  - General coordination, supervision and governance of the association.
+  - Finance and administration of the organization, including fundraising and ERASMUS+ grant application.
+  - Coordinated internal and membership department, consisting of over 30 international volunteers.
   - Supported engement with high-level external partners.
-  - Developmed and mantained of association website.
+  - Developed and mantained of association website.
+  - Organization of international events and conferences.
 ]
 
 
@@ -128,7 +130,7 @@
 
 #resume-skill-item(
   "Programming Languages",
-  ("Python (advanced)", "R (advanced)", "C++ (intermediate)", "SQL (intermediate)", "PHP (intermediate)", "JavaScript (intermediate)", "Rust (intermediate)", "Julia (beginner)")
+  ("Python (advanced)", "R (advanced)", "C++ (intermediate)", [SQL (intermediate)],[#linebreak() PHP (intermediate)], "JavaScript (intermediate)", "Rust (intermediate)", "Julia (beginner)")
 )
 
 #resume-skill-item(
@@ -143,7 +145,7 @@
 
 #resume-skill-item(
   "Leadership",
-  ("Team Management", "Project Management")
+  ("Team Management", "Project Management", "Event Organization", "Fundraising", "Public Speaking")
 )
 
 #resume-skill-item(

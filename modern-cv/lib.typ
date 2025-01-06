@@ -503,7 +503,7 @@
 /// - items (list): The list of skills. This can be a list of strings but you can also emphasize certain skills by using the `strong` function.
 #let resume-skill-item(category, items) = {
   set block(below: 0.65em)
-  set pad(top: 2pt)
+  set pad(top: 4pt, bottom: 4pt)
   
   pad[
     #grid(
