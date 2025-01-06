@@ -28,9 +28,9 @@
 
 #resume-item[
 - Design and implement deep learning models for point cloud processing to perform semantic segmentation, instance segmentation, and species classification.
-- Created algorithmic models to identify trees in terrestrial point clouds using a custom C++ library. 
-- Developed a pipeline for automated parallel processing of point clouds using a custom Python implementation on a Ray backend and PostgreSQL database, integrated with an internal dashboard. 
-- Developed machine learning models for quality control of pipeline outputs. 
+- Create algorithmic models to identify trees in terrestrial point clouds using a custom C++ library. 
+- Develop a pipeline for automated parallel processing of point clouds using a custom Python implementation on a Ray backend and PostgreSQL database, integrated with an internal dashboard. 
+- Develop machine learning models for quality control of pipeline outputs. 
 - Manage a data science team of five, including recruiting and onboarding new employees. 
 - Develop the company’s technology strategy and oversee the web development team. 
 ]
@@ -66,7 +66,7 @@
 )
 
 #resume-item[
-  - Teaching assistant for the courses: Advanced R, Ecosystem and Analysis Processing, Introduction to R.
+  - Teaching assistant for the courses: Advanced statistics in R, Ecosystem and Analysis Processing, Introduction to R.
   - Conducted a literature review of AI research papers for an ecosystem resilience project.
 ]
 
