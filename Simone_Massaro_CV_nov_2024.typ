@@ -28,13 +28,13 @@
 
 #resume-item[
 Forest Research:
- - Developmet of algoritchmic model to identity trees in terrestrial point cloud
+ - Development of algorithmic model to identity trees in terrestrial point cloud
  - Design and implementation of pipeline for forest point cloud processing
 Software Engineering:
-  - Developmenet internal C++ library with Python bindings for point cloud processing
+  - Development internal C++ library with Python bindings for point cloud processing
   - Development pipeline for automated parallel processing of point clouds (custom python on ray backend, PostgreSQL database)
   - Development internal dashboard (Symphony)
-  - Maintainance on-premises and cloud infrastructure (Linux and Windows machines and Digital Ocean services)
+  - Maintenance on-premises and cloud infrastructure (Linux and Windows machines and Digital Ocean services)
 Data Science:
  - Contribution to development of Deep Learning models for point cloud processing (semantic segmentation, instance segmentation and species classification)
  - Development ML models for quality control of the pipeline output
@@ -42,7 +42,7 @@ Data Science:
 
 Leadership:
 - Directly management the data science team (up to 5 people)
-- Overseing web development team
+- Overseeing web development team
 - Leading hiring of new employees
 - Development company technology strategy
 ]
