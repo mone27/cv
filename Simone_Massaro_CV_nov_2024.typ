@@ -9,8 +9,8 @@
       linkedin: "https://www.linkedin.com/in/simone-massaro/",
       positions: (
         "Data Scientist",
-        "Software Engineer",
         "Forest Researcher",
+        "Software Engineer",
       )
   ),
   accent-color: "#2F4F2F",
@@ -20,44 +20,66 @@
 = Experience
 
 #resume-entry(
-  title: "Interim Chief Technology Officer\nHead of Data Science\nData Scientist",
+  title: "\nInterim Chief Technology Officer\nHead of Data Science\nData Scientist",
   location: "44moles GmbH, Göttingen, Germany",
-  date: "Oct 2023 - Present",
+  date: "Nov 2024 - Present\nApr 2024 - Oct 2024\nOct 2023 - Mar 2024",
   description: "Forest measurements using Terrestrial Laser Scanning"
 )
 
 #resume-item[
-Forest Research:
- - Development of algorithmic model to identity trees in terrestrial point cloud
- - Design and implementation of pipeline for forest point cloud processing
-Software Engineering:
-  - Development internal C++ library with Python bindings for point cloud processing
-  - Development pipeline for automated parallel processing of point clouds (custom python on ray backend, PostgreSQL database)
-  - Development internal dashboard (Symphony)
-  - Maintenance on-premises and cloud infrastructure (Linux and Windows machines and Digital Ocean services)
-Data Science:
- - Contribution to development of Deep Learning models for point cloud processing (semantic segmentation, instance segmentation and species classification)
- - Development ML models for quality control of the pipeline output
- - Visualization of forest data 
-
-Leadership:
-- Directly management the data science team (up to 5 people)
-- Overseeing web development team
-- Leading hiring of new employees
-- Development company technology strategy
+- Design and implement deep learning models for point cloud processing to perform semantic segmentation, instance segmentation, and species classification.
+- Create algorithmic models to identify trees in terrestrial point clouds using a custom C++ library. 
+- Develop a pipeline for automated parallel processing of point clouds using a custom Python implementation on a Ray backend and PostgreSQL database, integrated with an internal dashboard. 
+- Develop machine learning models for quality control of pipeline outputs. 
+- Manage a data science team of five, including recruiting and onboarding new employees. 
+- Oversight of company’s technology department, which includes the data science and web development teams. 
+- Develop the company’s technology strategy. 
 ]
 
 #resume-entry(
-  title: "GIS Analyst Intern",
+  title: "Research Assistant",
+  location: "Università degli Studi della Tuscia, Viterbo, Italy",
+  date: "Jan 2025 - Present"
+)
+
+#resume-item[
+  - Integrate conversational AI and large language models for smart food processing. Development of AI Agent using the cheshire-cat-ai platform to control drying processes.
+]
+
+#resume-entry(
+  title: "Data Analyst Intern",
   location: "Arbonaut Oy, Joensuu, Finland",
   date: "Apr 2023 - Sept 2023",
   description: "Forest measurements using Aerial Laser Scanning"
 )
 
 #resume-item[
-  - Development Deep Learning model for single tree species classification using Orthophotos and LiDAR
-  - Estimation of the thinning volume using remote sensing for the entire country of Finland
-  - Spatial analysis of large scale remote sensing data and field measurements
+  - Developed Deep Learning model for single tree species classification using orthophotos and LiDAR.
+  - Estimated thinning volume using remote sensing for the entire country of Finland.
+  - Conducted spatial analysis of large-scale remote sensing data and field measurements.
+]
+
+
+#resume-entry(
+  title: "Research and Teaching Assistant",
+  location: "Georg-August-Universität Göttingen, Germany",
+  date: "Oct 2021 - Mar 2023"
+)
+
+#resume-item[
+  - Teaching assistant for the courses: Advanced statistics in R, Ecosystem and Analysis Processing, Introduction to R.
+  - Conducted a literature review of AI research papers for an ecosystem resilience project.
+]
+
+#resume-entry(
+  title: "Research Assistant",
+  location: "Università degli Studi della Tuscia, Viterbo, Italy",
+  date: "Jan 2019 - Oct 2020"
+)
+
+#resume-item[
+  - Developed Convolutional Neural Networks (CNN) for classification and segmentation of fruit samples in smart air drying processes.
+  - Published: Moscetti, R., Massaro, S., Chillemi, G., Sanna, N., Sturm, B., Chakravatula, S. S. N., & Massantini, R. (2019). Recognition of inlet wet food into the drying process through a deep learning approach. EuroDrying 2019 Torino.
 ]
 
 #resume-entry(
@@ -68,20 +90,12 @@ Leadership:
 )
 
 #resume-item[
-  - General coordination and supervise governance, finance and administration of the organization. (50+ volunteers at international level)
-  - Fundraising and ERASMUS+ grant application
-  - Coordination internal and membership department
-  - Support engement high-level external partners
-  - Development and maintainance fo association website
-]
-
-#resume-entry(
-  title: "Web Consultant",
-  location: "International Tropical Timber Organization (ITTO) Yokohama, Japan",
-  date: "May 2020 - Present"
-)
-#resume-item[
-  - Development and maintenance of website for LSSC Course part of CPF (FAO, ITTO, and IUFRO) project on Global Forest Education.
+  - General coordination, supervision and governance of the association.
+  - Finance and administration of the organization, including fundraising and ERASMUS+ grant application.
+  - Coordinated internal and membership department, consisting of over 30 international volunteers.
+  - Supported engement with high-level external partners.
+  - Developed and mantained of association website.
+  - Organization of international events and conferences.
 ]
 
 
@@ -95,9 +109,9 @@ Leadership:
 )
 
 #resume-item[
-  - Main subjects: Statistics and Data Analysis, Remote Sensing, Ecosystem Modelling, Bioclimatology
-  - Master Thesis: "Evaluation of Kalman Filter for meteorological time series imputation for Eddy Covariance applications"
-  - Final grade: 1.1/1.0 with distinction
+  - Main subjects: Statistics and Data Analysis, Remote Sensing, Ecosystem Modelling, Bioclimatology.
+  - #link("https://github.com/mone27/meteo_imp/blob/master/manuscript/Master%20Thesis%20-%20Evaluation%20of%20Kalman%20filter%20for%20meteorological%20time%20series%20imputation%20for%20Eddy%20Covariance%20applications%20-%20Simone%20Massaro/Thesis.pdf")[Master Thesis]: "Evaluation of Kalman Filter for meteorological time series imputation for Eddy Covariance applications".
+  - Final grade: 1.1/1.0 with distinction.
 ]
 
 #resume-entry(
@@ -107,16 +121,16 @@ Leadership:
 )
 
 #resume-item[
-- Main subjects: Forest Ecology, Forest Management, Nature Conservation
-- Bachelor thesis: "Evaluation of low-cost anemometers for micrometeorological applications"
-- Final grade 110/110 cum laude
+- Main subjects: Forest Ecology, Forest Management, Nature Conservation.
+- Bachelor thesis: "Evaluation of low-cost anemometers for micrometeorological applications".
+- Final grade 110/110 cum laude.
 ]
 
 = Skills
 
 #resume-skill-item(
   "Programming Languages",
-  ("Python (advanced)", "R (advanced)", "C++ (intermediate)", "SQL (intermediate)", "Php (intermediate)", "Web Development (intermediate)", "Rust (beginner)", "Julia (beginner)")
+  ("Python (advanced)", "R (advanced)", "C++ (intermediate)", [SQL (intermediate)],[#linebreak() PHP (intermediate)], "JavaScript (intermediate)", "Rust (intermediate)", "Julia (beginner)")
 )
 
 #resume-skill-item(
@@ -126,21 +140,15 @@ Leadership:
 
 #resume-skill-item(
   "Technical skills",
-  ("Linux sysadmin", "QGIS", "DevOps", "PostgreSQL", "Docker")
+  ("Linux sysadmin", "QGIS", "PostgreSQL", "Docker", "Docker Compose", "Cloud infrastructure", "DevOps")
   )
 
 #resume-skill-item(
   "Leadership",
-  ("Team Management", "Project Management")
+  ("Team Management", "Project Management", "Event Organization", "Fundraising", "Public Speaking")
 )
 
 #resume-skill-item(
   "Languages",
-  ("Italian (native)", "English (fluent)", "German (basic)", "Spanish (basic)")
+  ("Italian (native)", "English (C2)", "German (A2)", "Spanish (A2)")
 )
-
-= Publications
-
-#resume-item[
-  Moscetti, R., Massaro, S., Chillemi, G., Sanna, N., Sturm, B., Chakravatula, S. S. N., & Massantini, R. (2019). Recognition of inlet wet food into the drying process through a deep learning approach. EuroDrying 2019 Torino.
-]
