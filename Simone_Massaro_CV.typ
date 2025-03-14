@@ -22,8 +22,8 @@
 #resume-entry(
   title: "\nInterim Chief Technology Officer\nHead of Data Science\nData Scientist",
   location: "44moles GmbH, Göttingen, Germany",
-  date: "Nov 2024 - Present\nApr 2024 - Oct 2024\nOct 2023 - Mar 2024",
-  description: "Forest measurements using Terrestrial Laser Scanning"
+  date: "Nov 2024 - Apr 2025\nApr 2024 - Oct 2024\nOct 2023 - Mar 2024",
+  description: "Forest measurements using Mobile Laser Scanning"
 )
 
 #resume-item[
@@ -86,15 +86,15 @@
   title: "Executive Secretary\nVice President\nHead of Web",
   location: "International Forestry Students' Association",
   date: "Aug 2018 - Aug 2022",
-  description: "Internationl association with over 10000 members"
+  description: "International association with over 10000 members"
 )
 
 #resume-item[
   - General coordination, supervision and governance of the association.
   - Finance and administration of the organization, including fundraising and ERASMUS+ grant application.
   - Coordinated internal and membership department, consisting of over 30 international volunteers.
-  - Supported engement with high-level external partners.
-  - Developed and mantained of association website.
+  - Supported engagement with high-level external partners.
+  - Developed and maintained of association website.
   - Organization of international events and conferences.
 ]
 
@@ -140,7 +140,7 @@
 
 #resume-skill-item(
   "Technical skills",
-  ("Linux sysadmin", "QGIS", "PostgreSQL", "Docker", "Docker Compose", "Cloud infrastructure", "DevOps")
+  ("Linux sysadmin", "QGIS", "PostgreSQL", "Docker", "Docker Compose", "Cloud infrastructure", "DevOps", "Web development")
   )
 
 #resume-skill-item(
